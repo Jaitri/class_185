@@ -1,0 +1,31 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/stack": "^6.3.29",
+    "expo": "^49.0.0",
+    "expo-camera": "~13.2.1",
+    "expo-face-detector": "~12.1.1",
+    "expo-permissions": "~14.1.1",
+    "expo-status-bar": "~1.4.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.71.14",
+    "react-native-gesture-handler": "^2.16.0",
+    "react-native-responsive-fontsize": "^0.5.0",
+    "react-native-web": "~0.18.11",
+    "react-navigation": "^5.0.0",
+    "unimodules-permissions-interface": "^6.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
